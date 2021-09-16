@@ -1,4 +1,4 @@
-# Datastructures
+# C Expermiments
 
 Various datastructures/algorithms/test programs implemented in C. These have
 been written over the course of several years and are thus of differing quality.
